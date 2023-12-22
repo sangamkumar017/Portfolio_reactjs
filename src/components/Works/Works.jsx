@@ -25,14 +25,9 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-            Lorem ispum is simpley dummy text of printing of printing Lorem
-            <br />
-            ispum is simpley dummy text of printingLorem ispum is simpley dummy
-            text
-            <br />
-            y dummy text of printingLorem
-            <br />
-            ispum is simpley dummy text of printing
+          Versatile solutions spanning design, software development, and data science.<br />
+           Empowering diverse brands and clients with expertise in Nodejs, Reactjs, SQL, AWS and AI/ML,<br />
+            ensuring comprehensive solutions across industries.
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
