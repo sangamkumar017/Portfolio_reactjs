@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio_reactjs/static/css/main.a639a481.css",
-    "main.js": "/Portfolio_reactjs/static/js/main.5b35c501.js",
+    "main.css": "/Portfolio_reactjs/static/css/main.d44badf7.css",
+    "main.js": "/Portfolio_reactjs/static/js/main.a2a0d1b1.js",
+    "static/media/burger.png": "/Portfolio_reactjs/static/media/burger.5c51327eeeb20d193095.png",
+    "static/media/authentication.png": "/Portfolio_reactjs/static/media/authentication.a983c427e3c4911c09a7.png",
+    "static/media/shopping.png": "/Portfolio_reactjs/static/media/shopping.d82f01a693bec9e818f1.png",
     "static/media/ecommerce.png": "/Portfolio_reactjs/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/Portfolio_reactjs/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/musicapp.png": "/Portfolio_reactjs/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/boy.png": "/Portfolio_reactjs/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/ticket.png": "/Portfolio_reactjs/static/media/ticket.884ceb20a8b514dd7e54.png",
+    "static/media/parking.png": "/Portfolio_reactjs/static/media/parking.3075b9643b0291ecfbea.png",
+    "static/media/Facebook.png": "/Portfolio_reactjs/static/media/Facebook.edd3a4f54c1631efe677.png",
+    "static/media/email.png": "/Portfolio_reactjs/static/media/email.df822c926e3baaac0e9e.png",
     "static/media/glassesimoji.png": "/Portfolio_reactjs/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/resume.pdf": "/Portfolio_reactjs/static/media/resume.da5ebfcb22cd91771532.pdf",
     "static/media/hoc.png": "/Portfolio_reactjs/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/amazon.png": "/Portfolio_reactjs/static/media/amazon.6be722054a27a7270fc4.png",
     "static/media/thumbup.png": "/Portfolio_reactjs/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/Portfolio_reactjs/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/Portfolio_reactjs/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
@@ -17,11 +25,11 @@
     "static/media/Vector2.png": "/Portfolio_reactjs/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/Portfolio_reactjs/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio_reactjs/index.html",
-    "main.a639a481.css.map": "/Portfolio_reactjs/static/css/main.a639a481.css.map",
-    "main.5b35c501.js.map": "/Portfolio_reactjs/static/js/main.5b35c501.js.map"
+    "main.d44badf7.css.map": "/Portfolio_reactjs/static/css/main.d44badf7.css.map",
+    "main.a2a0d1b1.js.map": "/Portfolio_reactjs/static/js/main.a2a0d1b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a639a481.css",
-    "static/js/main.5b35c501.js"
+    "static/css/main.d44badf7.css",
+    "static/js/main.a2a0d1b1.js"
   ]
 }
